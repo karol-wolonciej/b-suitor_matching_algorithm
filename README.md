@@ -1,4 +1,4 @@
-### b-suitor_matching_algorithm
+#### b-suitor_matching_algorithm
 
 ```
 cmake build
@@ -7,7 +7,7 @@ make
 ```
 
 
-#implementation of b-suitor algorith for b-matching problem. 
+# implementation of b-suitor algorith for b-matching problem. 
 
 >check execution time with:
 ```

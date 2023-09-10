@@ -1,4 +1,5 @@
 # b-suitor_matching_algorithm
+concurrent implementation of b-suitor matching algorithm with optimalizations
 
 ```
 cmake build
